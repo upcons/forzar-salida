@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url=http://bit.ly/3LxgiB4">
+    <title>Redirigiendo…</title>
+
+    <script>
+        window.onload = function () {
+            window.location.replace("http://bit.ly/3LxgiB4");
+        };
+    </script>
+</head>
+<body>
+</body>
+</html>
